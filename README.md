@@ -6,9 +6,8 @@ The details of the coding challenge are explained in the file:
 This folder contains the files to run my implementation of the 
 SmartCar API spec as a server.  The server will listen for requests on 
 localhost port 8081 (http://localhost:8081).  The server is written to
-respond HTTP requsts received that are formatte dper the SmartCar API 
-specification document (contained in the same folder - 
-See Smartcar Backend Challenge.html).
+respond HTTP requsts received that are formatted per the SmartCar API 
+specification document (See [SmartCar_Backend_Challenge.html](http://htmlpreview.github.com/?https://github.com/kdious/SmartCar_Coding_Challenge/blob/master/SmartCar_Backend_Challenge.html)).
 
 The server was designed to be modular in that there is a spearate library
 that is used to interface with the GM server.  This way you can interact with
