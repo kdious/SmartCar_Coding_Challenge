@@ -15,12 +15,12 @@ other remote servers by simply creating/including the library for the new
 server and adding additional handler routines for interfacing with the 
 new remote server.
 
-Required Node.js libraries to run everything:
-request
-loglevel
-util
-request-json-light
-body-parser
+Required Node.js libraries to run everything:  
+request  
+loglevel  
+util  
+request-json-light  
+body-parser  
 express
 
 To launch the server type: node SmartCar_API_Sever.js 
