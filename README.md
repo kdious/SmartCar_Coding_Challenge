@@ -1,8 +1,4 @@
-========================================================================
-Filename:    README.txt
-Author:      Kevin Dious (kdious@gmail.com)
-Description: README file 
-========================================================================
+###### Author:      Kevin Dious (kdious@gmail.com)
 
 The details of the coding challenge are explained in the file:
 SmartCar_Backend_Challenge.html
