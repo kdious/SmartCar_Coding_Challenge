@@ -30,7 +30,7 @@ Once the server has been launched, then either the
 SmartCar_Client_Unit_Tests script or the SmartCar_Test_Client.js
 script can be launched by running:
 
-SmartCar_Client_Unit_Tests.js
+node SmartCar_Client_Unit_Tests.js
  
 or
 
